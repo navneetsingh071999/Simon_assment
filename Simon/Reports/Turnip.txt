@@ -1,8 +1,0 @@
-Events for Machine: Turnip
-9:50:11am Turnip POLICY 419551 Applied
-9:50:18am Turnip POLICY 419554 Applied
-9:52:53am Turnip SOFTWAREUPDATES 225 Non-compliant
-10:28:23am Turnip SOFTWAREUPDATES 225 Compliant
-10:51:32am Turnip POLICY 419556 Applied
-10:53:27am Turnip SOFTWAREUPDATES 226 Compliant
-End of Events

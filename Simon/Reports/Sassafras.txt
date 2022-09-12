@@ -1,6 +1,0 @@
-Events for Machine: Sassafras
-11:32:04am Sassafras POLICY 419184 Applied
-11:32:04am Sassafras POLICY 419186 Applied
-11:32:05am Sassafras POLICY 418777 Unapplied
-11:47:45am Sassafras SOFTWAREUPDATES 223 Failed
-End of Events
